@@ -15,7 +15,7 @@ To utilize this tool you must first create a SerpApi account [here](https://serp
 
 ![StepThree](https://github.com/thomastrivino/Source-Finder/blob/main/ReadME-Images/step3.gif)  
 
-### Fourth, click on Source Finder, then Find Sources  
+### Fourth, click on Source Finder, then Find Sources (You may have to authorize the application after clicking)  
 
 ![StepFour](https://github.com/thomastrivino/Source-Finder/blob/main/ReadME-Images/step4.gif)  
 
@@ -23,6 +23,6 @@ To utilize this tool you must first create a SerpApi account [here](https://serp
 
 ![StepFive](https://github.com/thomastrivino/Source-Finder/blob/main/ReadME-Images/step5.gif)  
 
-### Lastly, allow for the sources to be fetched  
+### Lastly, allow for the sources to be fetched (This takes some time)  
 
 ![StepSix](https://github.com/thomastrivino/Source-Finder/blob/main/ReadME-Images/step6.gif)  
