@@ -17,7 +17,7 @@ To utilize this tool you must first create a SerpApi account [here](https://serp
 
 ### Fourth, click on Source Finder, then Find Sources  
 
-![StepFour]()  
+![StepFour](https://github.com/thomastrivino/Source-Finder/blob/main/ReadME-Images/step4.gif)  
 
 ### Fifth, enter the position of the products, their respective prices, the destination to write to, and the percentage by which the price may vary  
 
