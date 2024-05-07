@@ -21,8 +21,8 @@ To utilize this tool you must first create a SerpApi account [here](https://serp
 
 ### Fifth, enter the position of the products, their respective prices, the destination to write to, and the percentage by which the price may vary  
 
-![StepFive]()  
+![StepFive](https://github.com/thomastrivino/Source-Finder/blob/main/ReadME-Images/step5.gif)  
 
 ### Lastly, allow for the sources to be fetched  
 
-![StepSix]()  
+![StepSix](https://github.com/thomastrivino/Source-Finder/blob/main/ReadME-Images/step6.gif)  
