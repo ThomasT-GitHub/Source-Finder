@@ -30,7 +30,7 @@ To utilize this tool you must first create a SerpApi account [here](https://serp
 ## How it works
 Tech used: Google App Script, SerpAPI
 
-<img src="" alt="html" width="60"/><img src="" alt="js" width="60"/>  
+<img src="https://github.com/thomastrivino/Source-Finder/blob/main/Google_Apps_Script.svg.png" alt="html" width="60"/><img src="https://raw.githubusercontent.com/thomastrivino/Source-Finder/main/34724717.png" alt="js" width="60"/>  
 
 To start, I outlined the design of the program. I decided to utilize Google Sheets for hosting the products and prices, employing Google Apps Script, a programming language designed for interacting with Google Workspace tools, to read from and write to this sheet. To retrieve listings for the products, I chose to parse data from Google Shopping. For this, I utilized SerpAPI, an API for web scraping search results.  
 
